@@ -1,0 +1,10 @@
+<svg width="156px" height="140px" xmlns="http://www.w3.org/2000/svg" veiwBox="0 0 156 140" style="transform-origin: center;-webkit-transform-origin: center;-moz-transform-origin: center;" id="my-heart">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M78.6577 140c-2.9628 0-5.76-1.1614-7.8687-3.2492l-55.7965-55.848c-.095-.095-.1899-.213-.2847-.3324-.3555-.3323-.735-.6877-1.0903-1.0431-18.1567-18.1662-18.1567-47.7376 0-65.9037 17.9193-17.9284 46.9553-18.1659 65.1584-.6878C87.262 5.466 98.0472 1.3864 109.4471 1.3864c12.444 0 24.13 4.8379 32.9238 13.636C151.1643 23.8218 156 35.5124 156 47.9626c0 12.4503-4.8357 24.1422-13.6291 32.9401-.5683.5686-1.1609 1.1383-1.8485 1.7312l-53.9956 54.1169C84.418 138.8386 81.644 140 78.6578 140z" fill="#FBDF18">
+        </path>
+        <path id="line" stroke="#1E1E1E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M9.4461 68.5534h51.4817l10.119-39.665 9.962 63.3036 12.093-41.0267 4.7709 17.0296h51.123" style="stroke-dasharray: 300;">
+            <animate attributeType="XML" attributeName="stroke-dashoffset" from="300" to="0" dur="1s" repeatCount="indefinite" values="300;260;60;0" keyTimes="0;0.33;0.7;1" calcMode="linear" />
+        </path>
+    </g>
+    <animateTransform attributeName="transform" attributeType="XML" type="scale" from="0.8" to="1" dur="1s" repeatCount="indefinite" values="0.8;0.8;1;0.8;0.8" keyTimes="0;0.43;0.43;0.54;1" />
+</svg>
